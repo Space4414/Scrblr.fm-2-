@@ -1,0 +1,7 @@
+"homepage": "https://Space4414.github.io/lastfm-scrobbler-frontend",
+"scripts": {
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+}
